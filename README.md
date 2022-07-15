@@ -1,5 +1,5 @@
 # react-node-auth
-Hi. :hello:
+Hi. :wave:
 
 This is a little authentication application built with React and Node.js
 
