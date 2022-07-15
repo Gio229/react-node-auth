@@ -1,0 +1,36 @@
+.button {
+    font: inherit;   
+    color: white;
+    cursor: pointer;
+    border-radius: 8px;
+    border-style: none;
+    height: 3rem;
+    font-size: 1rem;
+    padding-left: 12px;
+    padding-right: 12px;
+}
+
+.s100 {
+    width: 100%;
+}
+
+.s20 {
+    width: 20%;
+}
+
+
+.button-blackBlue {
+    border: 1px solid #033046;
+    background: #2a2740;
+    color: #f2f2f2;
+}
+
+button:disabled,
+button:focus:disabled,
+button:hover:disabled,
+button:active:disabled {
+  background: #ccc;
+  border-color: #ccc;
+  color: #666666;
+  cursor: not-allowed;
+}
