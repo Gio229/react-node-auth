@@ -17,4 +17,4 @@ This is a little authentication application built with React and Node.js
 >
 >Go into `/back/config/db.config.js` to update your username and password database information.
 >
->Open `/back` and `/front` and run `npm start`
+>Open `/back` and `/front` and run `npm install` then `npm start`
